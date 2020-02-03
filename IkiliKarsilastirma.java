@@ -90,10 +90,6 @@ normalize edilmiş dizi oluşturulur. */
     
     
     
-/**
- *
- * @author Huseyin Şimşek
- */   
 
 }
 
